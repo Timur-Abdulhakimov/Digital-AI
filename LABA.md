@@ -85,4 +85,8 @@ png:
 Задание 11
 ![mermaid-diagram-2024-10-16-102247](https://github.com/user-attachments/assets/3f1ad3e0-054a-48a8-960c-121736a66a57)
 
+Задание 12
 
+![Снимок экрана (10)](https://github.com/user-attachments/assets/94becabc-8ad7-4228-8bbf-45e22c58dfcb)
+
+![Снимок экрана (11)](https://github.com/user-attachments/assets/789cf977-6e48-4f1d-99ce-d00f9db815ba)
