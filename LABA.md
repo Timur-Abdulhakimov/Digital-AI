@@ -125,6 +125,10 @@ png
 
 # Задание 14
 
+```mermaid
+flowchart
+  A([начало]) ---> B[середина] ---> C([конец])
+```
 
 
 
@@ -147,10 +151,16 @@ png
 10. String String (строка) — это последовательность символов, используемая для представления текста в программировании.
 11. Multiline String Multiline string (многострочная строка) — это строка текста, которая занимает несколько строк кода. В Python многострочные строки могут быть созданы с помощью тройных кавычек (''' или """).
 
-Задание 17
+# Задание 17
+Перешёл на сайт https://mermaid.ink/ и изучил описание Getting Started. Проверил, как ведёт себя на компьютере приведённый в статье пример
+
+https://mermaid.ink/svg/pako:eNpNkE1qw0AMha8itGohvoAXhcZOs0lpodl5shC27Bma-WEsU4Ltu3fGIbQ76el7D0kztr5jLHGIFDSca-UAXptKRzOKpfECRfGyHFnAese3BfZPRw-j9iEYNzxnep8RqOZThhhEG_e95kG1eT8cL1A3Jwriw-VPP__4BQ6N-dQp-L-uIyfHW9NT2VPRUoSKYgKUKMEdWo6WTJdWnrNJoWi2rLBMZcc9TVdRqNyaUJrEf91ci6XEiXcY_TRoTKnXMXVT6Ei4NpROtw-EOyM-vt9_sr3mAR62yZ1bfwEED2fW??bgColor=!white
+Моя ссылка
 
 
-Задание 18
+
+# Задание 18
+
 
 
 Задание 19
