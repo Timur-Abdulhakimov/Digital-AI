@@ -1,3 +1,6 @@
+
+
+
 # Задание 1
 Алгоритм - это ннабор инструкций, созданный для эффективного решения задачи. ПРоисхождение слова арабское от имени средниазиатского математика Аль-Хорезами
 
@@ -154,13 +157,19 @@ flowchart
 # Задание 17
 Перешёл на сайт https://mermaid.ink/ и изучил описание Getting Started. Проверил, как ведёт себя на компьютере приведённый в статье пример
 
-https://mermaid.ink/svg/pako:eNpNkE1qw0AMha8itGohvoAXhcZOs0lpodl5shC27Bma-WEsU4Ltu3fGIbQ76el7D0kztr5jLHGIFDSca-UAXptKRzOKpfECRfGyHFnAese3BfZPRw-j9iEYNzxnep8RqOZThhhEG_e95kG1eT8cL1A3Jwriw-VPP__4BQ6N-dQp-L-uIyfHW9NT2VPRUoSKYgKUKMEdWo6WTJdWnrNJoWi2rLBMZcc9TVdRqNyaUJrEf91ci6XEiXcY_TRoTKnXMXVT6Ei4NpROtw-EOyM-vt9_sr3mAR62yZ1bfwEED2fW??bgColor=!white
 Моя ссылка
+https://mermaid.ink/svg/pako:eNo9j00KwjAUhK8S3spCe4EuBLUuXemu6SI06Q_YH2KykFLQjV6nCwui2DO83Mi0RXfvzXwMMw3EFRfgQypZnZFDQEtCVosQP9iZO3b4xiFyiOd5S7IOzRV7c8EeH_gciWg2NpZ_4WCV3twihypwoRCyYDm3yc0YSUFlohAUfHtykTB9VBRo2VqUaVXtz2UMvpJauCArnWbgJ-x4sp-uOVMiyJltWPxVwXNVyd3cfZrwI7eTM2e1X82WWCw?bgColor=!white
+
+![image](https://github.com/user-attachments/assets/a5e52f5d-d4fe-41f7-93ea-e105d86d96ac)
+
+
 
 
 
 # Задание 18
 
+![RefInCell](https://github.com/user-attachments/assets/82a98f21-12df-45e7-88af-f5c43cdbde36)
+![PyMermaid](https://github.com/user-attachments/assets/d5dd9509-2da0-4899-8ee7-04a6505b7ba6)
 
 
 Задание 19
