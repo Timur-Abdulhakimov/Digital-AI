@@ -109,17 +109,22 @@ png
 
 
 # Задание 12
+Схема сохраняется в буфер обмена в виде растрового изображения.
+
 
 ![Снимок экрана (10)](https://github.com/user-attachments/assets/94becabc-8ad7-4228-8bbf-45e22c58dfcb)
+
 
 ![Снимок экрана (11)](https://github.com/user-attachments/assets/789cf977-6e48-4f1d-99ce-d00f9db815ba)
 
 
 # Задание 13
+![Mermaid](https://github.com/user-attachments/assets/4c73b0da-5af2-49d4-a0d9-0071d57c1005)
 
 
+# Задание 14
 
-Задание 14
+
 
 Задание 15
 
